@@ -1,7 +1,4 @@
-### Hi there 👋
-
-![91908ad2f9aef293ed840739a291e9db](https://user-images.githubusercontent.com/51186313/198897888-896c0e66-7bc5-4b4e-8b1e-360fcfb8a73d.gif)
-
+### Salam  👋
 
 ![68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://user-images.githubusercontent.com/51186313/211174181-3aa30864-0b47-4962-be51-66d742b9e449.gif)
 
