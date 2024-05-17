@@ -5,11 +5,9 @@
 
 **alphacpc/alphacpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 - 🔭 Je travaille actuellement dans la FRAUDE
 
-- 🌱 Je suis en train d'apprendre la Blockchain Ethereum avec les livres de DAMIEN PLETOR et de Andreas M. Antonopoulos & Gavin Wood
+- 🌱 J'apprends la Blockchain Ethereum avec les livres de DAMIEN PLETOR et de Andreas M. Antonopoulos & Gavin Wood
   Liens des livres :
    * https://www.amazon.fr/Ma%C3%AEtrisez-Solidity-pratique-d%C3%A9velopper-intelligents/dp/B0C7SWSZ14/ref=mp_s_a_1_2?keywords=D%C3%A9velopper+des+smart+contrats&sr=8-2
    * https://www.amazon.fr/Ma%C3%AEtriser-Ethereum-D%C3%A9velopper-contrats-intelligents/dp/B0B1JV2BDT/ref=mp_s_a_1_1?keywords=D%C3%A9velopper+des+smart+contrats&sr=8-1
